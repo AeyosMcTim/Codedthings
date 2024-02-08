@@ -1,2 +1,17 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+
+</head>
+
+<body>
+  Hello world
+  
+</body>
+
+</html>
+
